@@ -1,4 +1,4 @@
-# Hi, I'm Dilara 👋
+## Hi, I'm Dilara 
 
 🎓 Software Engineering student from North Macedonia  
 💻 I enjoy building real-world projects and learning how systems work  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 - C++
 - Java
 - JavaScript
@@ -16,7 +16,7 @@
 
 ---
 
-## 📈 Currently learning
+### 📈 Currently learning
 - Full-stack development
 - Clean architecture & better code design
 - Cybersecurity basics
@@ -24,6 +24,6 @@
 
 ---
 
-## 📫 Contact
+###📫 Contact
 - Email: dilara0429@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/dilara-mucait-5385202a4/
