@@ -26,4 +26,4 @@
 
 ## 📫 Contact
 - Email: dilara0429@gmail.com 
-- LinkedIn: (https://www.linkedin.com/in/dilara-mucait-5385202a4?utm_source=share_via&utm_content=profile&utm_medium=member_ios) 
+- LinkedIn: https://www.linkedin.com/in/dilara-mucait-5385202a4/
