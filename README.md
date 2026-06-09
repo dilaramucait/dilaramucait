@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Dilara 👋
 
-<!--
-**dilaramucait/dilaramucait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student from North Macedonia  
+💻 I enjoy building real-world projects and learning how systems work  
+🚀 Focused on C++, Java, and web development   
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- C++
+- Java
+- JavaScript
+- React 
+- Python
+- AI / Machine Learning (learning)
+
+---
+
+## 📈 Currently learning
+- Full-stack development
+- Clean architecture & better code design
+- Cybersecurity basics
+- Artificial Intelligence & Machine Learning basics
+
+---
+
+## 📫 Contact
+- Email: dilara0429@gmail.com 
+- LinkedIn: (https://www.linkedin.com/in/dilara-mucait-5385202a4?utm_source=share_via&utm_content=profile&utm_medium=member_ios) 
